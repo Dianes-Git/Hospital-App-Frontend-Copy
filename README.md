@@ -1,2 +1,2 @@
 ### This is the architecture of the project
-![App Preview](azure-archi.png)
+![App Preview](CICD-PIPELINE-TO-DEPLOY-INFRASTRUCTURE -TO-AZURE.drawio)
